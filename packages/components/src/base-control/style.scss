@@ -12,7 +12,6 @@
 
 	.components-base-control__label {
 		display: block;
-		margin-bottom: $grid-size-small;
 	}
 
 	.components-base-control__help {
@@ -23,4 +22,9 @@
 
 .components-base-control + .components-base-control {
 	margin-bottom: $grid-size-large;
+}
+
+.components-base-control-visual-label,
+.components-base-control .components-base-control__label {
+	margin-bottom: $grid-size-small;
 }

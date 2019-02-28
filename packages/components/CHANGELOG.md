@@ -1,3 +1,9 @@
+## 7.2.0 (Unreleased)
+
+### New Features
+
+- Added a new `BaseControl.VisualLabel` component.
+
 ## 7.1.0 (2019-03-06)
 
 ### New Features
